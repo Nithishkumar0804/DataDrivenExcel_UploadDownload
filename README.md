@@ -21,16 +21,4 @@ This project demonstrates **data-driven testing with Selenium** using Excel file
 - **Automation Tool**: Selenium WebDriver  
 - **Build Tool**: Maven  
 - **Testing Framework**: TestNG  
-- **Library**: Apache POI (for Excel integration)  
-
----
-
-## 📂 Project Structure
-┣ src/
-┃ ┣ main/
-┃ ┃ ┣ java/ # Utility classes
-┃ ┃ ┗ resources/ # Excel test data files
-┃ ┗ test/
-┃ ┗ java/ # Test classes (DataDriven, UploadDownload, AutoIT, etc.)
-┣ pom.xml
-┗ README.md
+- **Library**: Apache POI (for Excel integration)
